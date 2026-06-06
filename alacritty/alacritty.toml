@@ -1,7 +1,7 @@
 general.import = [
-  "~/doc/dracula_pro/themes/alacritty/themes/dracula-pro-van-helsing.toml"
+  #"~/doc/dracula_pro/themes/alacritty/themes/dracula-pro-van-helsing.toml"
   #"~/doc/dracula_pro/themes/alacritty/themes/dracula-pro.toml"
-  #"~/doc/dracula_pro/themes/alacritty/themes/dracula-pro-alucard.toml"
+  "~/doc/dracula_pro/themes/alacritty/themes/dracula-pro-alucard.toml"
 ]
 
 [window.dimensions]

@@ -27,7 +27,7 @@ vim.cmd("syntax on")
 vim.cmd("syntax enable")
 vim.cmd("packadd! dracula_pro")
 vim.g.dracula_colorterm = 0
-vim.cmd("colorscheme dracula_pro")
+vim.cmd("colorscheme dracula_pro_alucard")
 
 --vim.api.nvim_set_hl(0, 'CursorLine', {bg = 35})
 --vim.api.nvim_set_hl(0, 'ColorColumn', {bg = 35})
